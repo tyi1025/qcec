@@ -1,4 +1,4 @@
 [submodule "extern/qfr"]
     path = extern/qfr
     url = https://github.com/tyi1025/qfr.git
-    branch = memory-optim-tw
+    branch = mem-optim-qfr-tw
